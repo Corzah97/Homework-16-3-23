@@ -63,3 +63,7 @@ When the page is refreshed, the saved events persist
 GitHub Repository - https://github.com/Corzah97/Homework-16-3-23
 
 Deployed Website - https://corzah97.github.io/Homework-16-3-23/
+
+## Work Completed
+
+By Corey Boughton
