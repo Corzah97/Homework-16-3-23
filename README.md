@@ -58,3 +58,8 @@ GREY - PAST - ![#1589F0](https://via.placeholder.com/15/808080/808080.png) `8080
 When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 
 When the page is refreshed, the saved events persist
+
+## Web Links
+GitHub Repository - https://github.com/Corzah97/Homework-16-3-23
+
+Deployed Website - https://corzah97.github.io/Homework-16-3-23/
