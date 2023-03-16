@@ -57,9 +57,9 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-/* Attempted to add Mobile Version */
+/* Attempted to add Mobile Version
 
-@media screen and (max-width: 768px), screen and (max-width: 575px) {
+@media screen and (max-width: 768px), screen and (max-width: 390px) {
   .row {
     height: auto;
     margin-top: 20px;
@@ -79,4 +79,4 @@ textarea {
     min-height: 85px;
     border: 0;
   }
-}
+} */
